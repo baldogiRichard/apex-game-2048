@@ -1,6 +1,6 @@
 {
     "name" : "Game 2048",
-    "version" : "2048.0",
+    "version" : "1.0",
     "description" : "This is a small fun game built for every Oracle APEX fan and enjoyer.",
     "keywords" : ["templatecomponent","plugin"],
     "homepage" : "https://github.com/baldogiRichard/apex-game-2048",
