@@ -1,0 +1,36 @@
+{
+    "name" : "Game 2048",
+    "version" : "2048.0",
+    "description" : "This is a small fun game built for every Oracle APEX fan and enjoyer.",
+    "keywords" : ["templatecomponent","plugin"],
+    "homepage" : "https://github.com/baldogiRichard/apex-game-2048",
+    "bugs" : {
+      "url" : "https://github.com/baldogiRichard/apex-game-2048/issues",
+      "email" : "baldogi.richard@gmail.com"
+    },
+    "license" : "MIT",
+    "commercial" : "No",
+    "author" : {
+      "name" : "Richard Baldogi",
+      "email" : "baldogi.richard@gmail.com",
+      "url" : "https://www.linkedin.com/in/rb-627543146",
+      "twitter": "@O_APEX_Hungary"
+    },
+    "repository" : {
+      "type" : "git",
+      "url" : "https://github.com/baldogiRichard/apex-game-2048.git"
+    },
+   "oracle" : {
+      "versions" : ["19.0.0.0","21.0.0.0","23.0.0.0"],
+      "apex" : {
+        "versions" : ["23.1","23.2","24.1","24.2"],
+        "plugin" : {
+          "internalName" : "COM.GAME2048.TEMPLATECOMPONENT",
+          "type" : "template component",
+          "demo" : "https://apex.oracle.com/pls/apex/r/rmzrt/apex-plugins-by-richard-baldogi/game-2048",
+          "previewImage" : "https://raw.githubusercontent.com/baldogiRichard/apex-game-2048/main/game2048.gif"
+        }
+      }
+    }
+  }
+  
